@@ -1,0 +1,13 @@
+TIPO,PROVISION,2,Cuenta,Concepto,Contrato,Proveedor,Asignacion,CeCo,Valor,Sociedad GL,Mes,Año,Texto,Ingeniero Responsable,Mes Texto,Tipo
+Numero Registro,1,A1,7506022309,Reg 4379 - Req 25963 - VIRTELA - 10Mbps BOG UK ETB,8300003453,ETB,899999115,2118,500'000.00,,7,2018,PROV JUL ETB,,JUL,PROV
+Transaccion,FB01,B1,7506011503,PRESTACION SERVICIO MEDICION EMISIONES RADIACIONES IONIZANTES EDIFICIO BCH NODO FIBRA OPTICA SANTA MARTA BCH Y TUNJA,4700007819,APPLUS NORCONTROL COLOMBIA LTDA,830513773,3133,1'004'125.79,,2,2018,PROV FEB APPLUS NORCONTROL COLOMBIA LTDA,,FEB,PROV
+Fecha Documento,30112018,C1,,,,,,,,,,,,,,
+Fecha Contabilizacion,30112018,F1,,,,,,,,,,,,,,
+Mes,11,G1,,,,,,,,,,,,,,
+Clase Documento,SA,D1,,,,,,,,,,,,,,
+Sociedad,TELE,E1,,,,,,,,,,,,,,
+Moneda,COP,H1,,,,,,,,,,,,,,
+Referencia,PROV NOV,L1,,,,,,,,,,,,,,
+Txt Encabezado,PROV NOV OYM,N1,,,,,,,,,,,,,,
+División,3206,O1,,,,,,,,,,,,,,
+Fin Linea,/,AJ1,,,,,,,,,,,,,,
